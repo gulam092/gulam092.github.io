@@ -1279,3 +1279,8 @@ section {
 #footer .credits a {
   color: #34b7a7;
 }
+.author-img {
+  background-size: cover!important;
+  background-position: center center!important;
+  background-repeat: no-repeat!important;
+  position: relative!important; }
